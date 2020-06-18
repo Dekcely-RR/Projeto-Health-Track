@@ -1,0 +1,30 @@
+@media screen and (min-device-width: 360px){
+.black{
+		width: 10px;
+		height: 10px;
+		background-color: #8b0000;
+
+}
+}
+/*Samsung Galaxy S4
+{
+	header p, header time, aside{
+		display: none;
+	}
+	article{
+		width: 340px;
+		height: 340px;
+	}
+
+	div.logo{
+		width: 315px;
+		background-image: url('../img/logofiap_pequeno.png');
+		height: 90px; 
+	}
+
+	header, section{
+		width: 315px;
+	}
+}*/
+
+		

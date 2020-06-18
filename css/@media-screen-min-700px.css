@@ -1,0 +1,30 @@
+@media screen and (min-width: 700px)
+{
+	article{
+		width: 700px;
+		height: 340px;
+	}
+
+	div.logo{
+		background-image: url('../img/logofiap_grande.png');
+		width: 580px;
+		height: 105px;
+		
+		
+	}
+
+	header, section{
+		width: 570px;
+	}
+	
+	aside{
+		position: relative;	
+		top: -326px;
+		left: 595px;
+		width: 90px;
+		height: 317px;
+		border: 2px solid red;
+		padding: 5px;
+	}
+	
+}
